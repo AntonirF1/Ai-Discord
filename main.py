@@ -33,4 +33,4 @@ async def image(ctx):
         else:
             await ctx.send(f"Plik {filename} nie jest w odpowiednim formacie i nie zostanie przetworzony")
 
-bot.run("MTMzMzg0NTYzMDgzMzAwMDUzOQ.GsDTgE.dWD8u7yBdSM9-gIHrQ0wo9rkdsnSakwRMOugO0")
+bot.run(token)
